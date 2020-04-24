@@ -1,1 +1,1 @@
-# Java
+# Java College Information Project
